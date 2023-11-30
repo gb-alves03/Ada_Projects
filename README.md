@@ -14,6 +14,7 @@ Durante a execução do programa, cada jogador deve escrever sua jogada (coorden
   <li><span>Total pago de Imposto de Renda;</span></li>
   <li><span>Salário Líquido.</span></li>
 </ul>
+
 - Os descontos e o salário líquido de cada funcionário é calculado com base nas tabelas abaixo: 
 
 | Salário | % Desconto INSS | |-----------------------------|-----------------| | até 1.212,00 | 7,5% | | de 1212,01 até 2.427,35 | 9% | | de 2.427,36 até 3.641,03 | 12% | | de 3.641,04 até 7.087,22 | 14% |
